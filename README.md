@@ -75,3 +75,12 @@ Please refer to the LICENSE file for detailed information on using the dataset.
 For any additional inquiries about the license, please contact ARKitScenes-license@group.apple.com.
 
 If you have other questions, feel free to open an issue in the repository or contact ARKitScenes@group.apple.com.
+
+
+## Getting started
+Setup conda environement and run the following command.
+```
+conda create --name arkit python=3.10
+conda activate arkit
+pip install -r requirements.txt
+```
